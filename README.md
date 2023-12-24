@@ -18,7 +18,7 @@ The dataset, named `heart_failure_clinical_records.csv`, includes various attrib
 3. **Data Splitting**: Dividing the dataset into training (95%) and validation (5%) sets.
 
 ## Features
-The model considers the following features for rent prediction:
+The model considers the following features for death cause prediction:
 - age: age of the patient [years]
 - anaemia
 - creatinine_phosphokinase
