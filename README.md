@@ -46,7 +46,7 @@ The model considers the following features for rent prediction:
 - Predict and evaluate the model using the validation set.
 
 ## Output
-- The model outputs predicted rent values.
+- The model outputs predict if someone will die of heart disease.
 - The model's performance is measured using the Mean Absolute Error (MAE).
 
 ## Conclusion
