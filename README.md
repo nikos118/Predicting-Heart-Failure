@@ -10,7 +10,7 @@ I made this project to learn about decision trees and RandomForestRegressor. The
 - scikit-learn: For machine learning model building and evaluation.
 
 ## Dataset
-The dataset, named `heart_failure_clinical_records.csv`, includes various attributes of houses and their corresponding rent prices.
+The dataset, named `heart_failure_clinical_records.csv`, includes various attributes of patients who either died of heart failure or did not.
 
 ## Data Preprocessing Steps
 1. **Data Reading**: Utilizing Pandas to read the data.
