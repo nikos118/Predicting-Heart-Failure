@@ -2,7 +2,7 @@
 Using random forests to predict heart failure from clinical records.
 
 ## Overview
-I made this project to learn about decision trees and RandomForestRegressor. The dataset I am using and the idea for this challenge are both from Kaggle. The project uses Python along with libraries like Pandas and scikit-learn.
+I made this project to learn about decision trees and RandomForestRegressor. The dataset I am using and the idea for this challenge are both from Kaggle. The project uses Python along with libraries like Pandas and scikit-learn. Before using machine learning to predict outcomes, I cleaned the dataset in Excel and visualized it using Tableau to get a better idea of which factors I should train the model on.
 
 ## Dependencies
 - Python
